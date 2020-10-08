@@ -1,5 +1,1 @@
-Meu primeiro sistema no GIT
-
-Alterar
-
-modificando o README.md
+Meu primeiro sistema no GIT (atualizando projeto GIT)
